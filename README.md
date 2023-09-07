@@ -1,7 +1,7 @@
 # Assignment1_TokoZan
 Tampilan e-commerce sederhana
 
-![alt]()
+![alt](Assets/TokoZan-E-Commerce.gif)
 
 # Perlengkapan :
 1. HTML
